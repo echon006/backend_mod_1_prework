@@ -13,11 +13,11 @@ class Person
   end
 
   def hobbies
-    "#{name} likes to #{hobby}"
+    "#{@name} likes to #{@hobby}"
   end
 
   def info
-    "#{name} is #{age}, and is #{height} tall, they like to #{hobby}."
+    "#{@name} is #{@age}, and is #{@height} tall, they like to #{@hobby}."
   end
 end
 

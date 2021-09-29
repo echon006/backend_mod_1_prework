@@ -149,4 +149,4 @@ p invincible.arch_nemesis
 # What parts felt most comfortable to you?
 # Setting up dynamic value for the class.
 # What skills do you need to continue to practice before starting Mod 1?
-# vocabulary and classes. 
+# vocabulary and classes.

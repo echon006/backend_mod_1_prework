@@ -42,6 +42,6 @@ def fizzbuzz(num_1, num_2, range)
     end
   end
 end
-# fizzbuzz parameters set with arguments 
+# fizzbuzz parameters set with arguments
 fizzbuzz(3, 5, 100)
 fizzbuzz(5, 8, 400)
